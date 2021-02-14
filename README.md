@@ -1,8 +1,8 @@
 # SortingAlgorithmsGUI
-Comparison a working-time of different sorting algorithms, such a: 
--Bubble sort with flag
--Selecton sort
--Shell sort
--Merge sort
--Quick sort
--Counting sort
+Comparison a working-time of different sorting algorithms, such a: <br />
+-Bubble sort with flag <br />
+-Selecton sort <br />
+-Shell sort <br />
+-Merge sort <br />
+-Quick sort <br />
+-Counting sort <br />
